@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-66" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-67" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-68" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-69" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-70" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-71" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-72" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-73" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-74" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/puzzle-75" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

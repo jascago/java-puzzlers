@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10-advanced-puzzlers/10-advanced-puzzlers.iml" filepath="$PROJECT_DIR$/10-advanced-puzzlers/10-advanced-puzzlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-expressive-puzzlers/2-expressive-puzzlers.iml" filepath="$PROJECT_DIR$/2-expressive-puzzlers/2-expressive-puzzlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-puzzlers-with-character/3-puzzlers-with-character.iml" filepath="$PROJECT_DIR$/3-puzzlers-with-character/3-puzzlers-with-character.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-loopy-puzzlers/4-loopy-puzzlers.iml" filepath="$PROJECT_DIR$/4-loopy-puzzlers/4-loopy-puzzlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-exceptional-puzzlers/5-exceptional-puzzlers.iml" filepath="$PROJECT_DIR$/5-exceptional-puzzlers/5-exceptional-puzzlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-classy-puzzlers/6-classy-puzzlers.iml" filepath="$PROJECT_DIR$/6-classy-puzzlers/6-classy-puzzlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-library-puzzlers/7-library-puzzlers.iml" filepath="$PROJECT_DIR$/7-library-puzzlers/7-library-puzzlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-classier-puzzlers/8-classier-puzzlers.iml" filepath="$PROJECT_DIR$/8-classier-puzzlers/8-classier-puzzlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-more-library-puzzlers/9-more-library-puzzlers.iml" filepath="$PROJECT_DIR$/9-more-library-puzzlers/9-more-library-puzzlers.iml" />
+    </modules>
+  </component>
+</project>
